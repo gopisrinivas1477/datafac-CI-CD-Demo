@@ -10,7 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "customerinfo.csv",
+				"fileName": "ProductCategory.csv",
+				"folderPath": "Demo Data/Products",
 				"fileSystem": "root"
 			},
 			"columnDelimiter": ",",
