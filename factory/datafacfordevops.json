@@ -1,0 +1,9 @@
+{
+	"name": "datafacfordevops",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a992f83d-ad0b-4d92-9317-c0dd6d66bab1",
+		"tenantId": "f48c2b92-c4df-4e8a-a5d6-7884f4e87dfc"
+	}
+}
